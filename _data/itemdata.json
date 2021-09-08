@@ -1,28 +1,3 @@
-{
-  "Beer": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": 25,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "Mod": "RimWorld",
-    "KarmaType": null
-  },
-  "Wort": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 25,
-    "Weight": 1,
-    "ResearchOverrides": null,a{
-	"items" : [
 	{
 		"abr": "advancedcomponent",
 		"price": 1000,
